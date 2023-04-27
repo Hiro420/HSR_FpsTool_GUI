@@ -1,0 +1,24 @@
+# ignore Visual Studio files
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.suo
+*.user
+*.vspscc
+*.vssscc
+*.dll
+*.exe
+
+# ignore NuGet packages
+packages/
+
+# ignore other build artifacts
+*.bak
+*.log
+*.cache
+*.zip
+*.rar
+*.7z
+*.sln.docstates
