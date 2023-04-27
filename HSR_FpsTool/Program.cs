@@ -58,11 +58,11 @@ namespace HSRFPSTOOL
                 Location = new System.Drawing.Point(250, 70),
                 Width = 200
             };
-            for (double value = 0.1; value <= 2.1; value += 0.1)
+            for (double value = 0.8; value <= 2.1; value += 0.1)
             {
                 _renderingQuality.Items.Add(value.ToString("0.0"));
             }
-            _renderingQuality.SelectedIndex = 13;
+            _renderingQuality.SelectedIndex = 6;
             Controls.Add(_renderingQuality);
 
             // Add Shadows option
