@@ -1,2 +1,8 @@
-# HSR_FpsTool_GUI
-A C# gui tool to edit some star rail game graphics settings, as well as unlock 120 fps
+# USAGE
+
+1. Build in in Visual Studio
+2. Run `HSR_FpsTool.exe`
+3. Select your settings and FPS
+4. Press "Apply Settings"
+
+[![Screenshot](https://i.postimg.cc/kMHgqpCz/On-Paste-20230427-081646.png)](https://postimg.cc/8shSbwjm)
